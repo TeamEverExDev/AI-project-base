@@ -16,8 +16,8 @@
 title: "VideoRFSplat: Direct Scene-Level Text-to-3D Gaussian Splatting Generation with Flexible Pose and Multi-View Joint Modeling"
 email: 'jami0821@gmail.com'
 description: "Anonymous ICCV submission<br/>Paper ID 7919"
-baseurl: "/test-viser" # the subpath of your site, e.g. /blog
-url: "https://ho-joon-kim.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: "/AI-project-base" # the subpath of your site, e.g. /blog
+url: "https://teameverexdev.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'example'
 github_username: 'example'
 medium_username: 'example'
